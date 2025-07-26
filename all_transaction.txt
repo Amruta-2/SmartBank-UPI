@@ -1,0 +1,14 @@
+[2025-07-20 03:08:03] [john@ybl] [ATM] Deposited ₹100
+[2025-07-20 03:12:14] [amruta@ybl] [ATM] Deposited ₹1000
+[2025-07-20 03:12:35] [amruta@ybl] [atm] [2025-07-20 03:12:35] Transferred ₹100 to Account 278422
+[2025-07-20 03:13:06] [amruta@ybl] [upi] [2025-07-20 03:13:06] Added ₹2000 to wallet
+[2025-07-20 03:13:51] [amruta@ybl] [UPI] 2025-07-20 03:13:51 - Sent ₹200 to amruta1444@ybl
+[2025-07-20 03:13:51] [amruta1444@ybl] [UPI] 2025-07-20 03:13:51 - Received ₹200 from amruta@ybl
+[2025-07-20 11:00:28] [amruta1234@ybl] [ATM] Deposited ₹1000
+[2025-07-20 11:00:39] [amruta1234@ybl] [ATM] Withdrew ₹500
+[2025-07-20 11:01:01] [amruta1234@ybl] [atm] [2025-07-20 11:01:01] Transferred ₹200 to Account 417755
+[2025-07-20 11:02:24] [amruta1234@ybl] [upi] [2025-07-20 11:02:24] Added ₹1000 to wallet
+[2025-07-20 11:02:37] [amruta1234@ybl] [UPI] 2025-07-20 11:02:37 - Sent ₹100 to amruta@ybl
+[2025-07-20 11:02:37] [amruta@ybl] [UPI] 2025-07-20 11:02:37 - Received ₹100 from amruta1234@ybl
+[2025-07-20 11:09:10] [amruta1234@ybl] [UPI] 2025-07-20 11:09:10 - Sent ₹100 to amruta@ybl
+[2025-07-20 11:09:10] [amruta@ybl] [UPI] 2025-07-20 11:09:10 - Received ₹100 from amruta1234@ybl
